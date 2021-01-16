@@ -5,9 +5,8 @@
 ; becuase im too lazy to code the kernel in another sector. If you want to use this
 ; as kernel, you need to code the 0x13 function to read the sectors.
 ;
-; FOR EDUCATIONAL PRUPOSES! STEALING THE SOUCRE CODE WILL BE AUTOMATLY REPORTED.
+; FOR EDUCATIONAL PRUPOSES.
 ;
-; Contact Discord: ! SleepMod !#0522.
 ;
 ; -----------------------------------------------------------------------------------------------------
 
