@@ -1,13 +1,5 @@
 ; -----------------------------------------------------------------------------------------------------
-;
-; This time im a good person and i didn't add any bug, the soucre code is 100% correct, with 0 errors.
-; NOTE! I've just do this simple bootloader, with a keyboard using the 0x16 function,
-; becuase im too lazy to code the kernel in another sector. If you want to use this
-; as kernel, you need to code the 0x13 function to read the sectors.
-;
-; FOR EDUCATIONAL PRUPOSES.
-;
-;
+; Created 12 Jan 2020, modified 16 May 2022.
 ; -----------------------------------------------------------------------------------------------------
 
 BITS 16
